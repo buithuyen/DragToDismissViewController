@@ -1,0 +1,6 @@
+framework module DragToDismissViewController {
+  umbrella header "DragToDismissViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}

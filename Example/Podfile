@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'DragToDismissViewController_Example', :exclusive => true do
+  pod "DragToDismissViewController", :path => "../"
+end
+
+target 'DragToDismissViewController_Tests', :exclusive => true do
+  pod "DragToDismissViewController", :path => "../"
+
+  
+end

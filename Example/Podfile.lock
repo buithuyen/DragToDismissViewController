@@ -1,0 +1,14 @@
+PODS:
+  - DragToDismissViewController (0.1.0)
+
+DEPENDENCIES:
+  - DragToDismissViewController (from `../`)
+
+EXTERNAL SOURCES:
+  DragToDismissViewController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DragToDismissViewController: 7ff3782a199d7512b4f8fbcf4b88acaadcb967a2
+
+COCOAPODS: 0.39.0
